@@ -16,7 +16,7 @@ const About = () => {
         </h2>
         
         <p className="text-gray-400 text-lg text-center max-w-3xl mx-auto mb-20 leading-relaxed">
-         Hi, I'm Siri Naik, a student from Siddapura, Karnataka. I specialize in Python programming, web development with HTML, and data visualization using Tableau, and I am deeply interested in AI. I enjoy exploring AI concepts and applying them alongside my projects to create smart and interactive solutions.
+         Hi, I'm Siri Naik  from Siddapura, Karnataka. I specialize in Python programming, web development with HTML, and data visualization using Tableau, and I am deeply interested in AI. I enjoy exploring AI concepts and applying them alongside my projects to create smart and interactive solutions.
 I love turning data into insights, building functional web applications, and continuously learning new technologies to solve real-world problems efficiently.
         </p>
 
@@ -29,5 +29,6 @@ I love turning data into insights, building functional web applications, and con
     </section>
   );
 };
+
 
 export default About;
