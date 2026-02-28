@@ -6,7 +6,7 @@ interface EducationItem {
 const educationData: EducationItem[] = [
   {
     institution: "Moodlakatte Institute of Technology, Kundapura",
-    details: "B.E. CSE (Data Science), CGPA: 7.36/10 (2022-2026)",
+    details: "B.E. CSE (Data Science), CGPA: 7.36/10 (2023-2026)",
   },
   {
     institution: "R N Shetty Composite PU College, Kundapura",
@@ -45,3 +45,4 @@ export default function Education() {
   );
 
 }
+
