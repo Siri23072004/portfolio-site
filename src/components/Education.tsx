@@ -10,7 +10,7 @@ const educationData: EducationItem[] = [
   },
   {
     institution: "R N Shetty Composite PU College, Kundapura",
-    details: "XII, Science, 89.33% (2022)",
+    details: "XII, Science, 69.33% (2022)",
   },
   {
     institution: "Saraswati Vidyalaya English Medium Highschool, Siddapura",
@@ -43,4 +43,5 @@ export default function Education() {
       </div>
     </section>
   );
+
 }
